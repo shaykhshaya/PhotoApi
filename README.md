@@ -6,5 +6,4 @@ The app connects to a web service to retrieve and dislplay Images in RecyclerVie
 
 ## Screenshots
 
-![Screenshot_20221213_224746](https://user-images.githubusercontent.com/119520622/207401631-f615beae-8b11-4e9c-9999-90375f281222.png)
-
+![1](https://user-images.githubusercontent.com/119520622/209066573-9ea109b2-6d75-4040-ba19-97a82bb2fa52.png)
